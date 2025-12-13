@@ -1,0 +1,11 @@
+# Sırlar ve Şifreler (ASLA Yükleme)
+.env
+
+# Sanal Ortam (Gereksiz Kalabalık)
+.venv/
+/venv
+env/
+
+# Python Çöp Dosyaları
+__pycache__/
+*.pyc

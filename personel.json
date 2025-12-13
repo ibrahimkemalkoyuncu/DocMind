@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "isim": "Ahmet Yılmaz",
+        "departman": "IT",
+        "maas": 85000,
+        "yetenekler": ["Python", "Linux"]
+    },
+    {
+        "id": 2,
+        "isim": "Ayşe Demir",
+        "departman": "İK",
+        "maas": 65000,
+        "yetenekler": ["Excel", "İletişim"]
+    },
+    {
+        "id": 3,
+        "isim": "Mehmet Öz",
+        "departman": "IT",
+        "maas": 92000,
+        "yetenekler": ["Java", "Yönetim", "AI"]
+    }
+]
